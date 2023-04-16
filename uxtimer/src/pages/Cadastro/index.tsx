@@ -20,7 +20,7 @@ export default function Cadastro() {
                 </ButtonBox>
                 <FooterBox>
                     <p>Já tem uma conta?</p>
-                    <p><a href="#">Voltar para o login</a></p>
+                    <p>Voltar para o login</p>
                 </FooterBox>
                 <FooterMain>
                     <p>Desenvolvido com ❤ por UX Software</p>

@@ -18,7 +18,7 @@ export default function Login() {
                 </ButtonBox>
                 <FooterBox>
                     <p>É seu primeiro acesso?</p>
-                    <p><a href="#">Criar uma conta</a></p>
+                    <p>Criar uma conta</p>
                 </FooterBox>
             </Main>
             <FooterMain>

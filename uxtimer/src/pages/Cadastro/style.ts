@@ -72,7 +72,7 @@ export const InputBox = styled.div`
         font-size: 20px;
         line-height: 23px;
 
-        color: #B1AFAF;
+        color: var(--primary-color-darkness);
 
         padding: 18px 28px;
 
