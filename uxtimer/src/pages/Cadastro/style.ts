@@ -132,6 +132,10 @@ export const FooterBox = styled.div`
         font-size: 16px;
         line-height: 19px;
     } 
+
+    a {
+        color: var(--White);
+    }
 `;
 
 export const FooterMain = styled.footer`

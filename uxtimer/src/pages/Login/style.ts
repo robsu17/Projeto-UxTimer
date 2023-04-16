@@ -130,7 +130,12 @@ export const FooterBox = styled.div`
         font-weight: 500;
         font-size: 16px;
         line-height: 19px;
-    } 
+    }
+
+    a {
+        color: var(--white);
+    }
+
 `;
 
 export const FooterMain = styled.footer`
