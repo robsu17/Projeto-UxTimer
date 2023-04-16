@@ -1,6 +1,7 @@
 import { Wrapper, Main, Header, InputBox, ButtonBox, FooterBox, FooterMain } from "./style";
 
-export default function Login() {
+export default function Login() {  
+
     return (
         <Wrapper>
             <Main>
@@ -13,7 +14,7 @@ export default function Login() {
                     <input type="password" placeholder="Senha"></input>
                 </InputBox>
                 <ButtonBox>
-                    <button>Entrar</button>
+                    <button id="btt">ENTRAR</button>
                 </ButtonBox>
                 <FooterBox>
                     <p>É seu primeiro acesso?</p>
